@@ -1,3 +1,4 @@
+### NOAA Weather Event Data: Analysis of Patterns
 ## Synopsis
 
 This report explores the 2024 United States NOAA Storm Datasets, joining
